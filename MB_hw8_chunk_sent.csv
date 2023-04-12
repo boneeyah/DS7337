@@ -1,0 +1,1321 @@
+,review_id,review,compound score,sentiment
+6,The_Thing_0,entertaining horror,0.7096,positive
+7,The_Thing_0,clever,0.4588,positive
+13,The_Thing_0,no introduction,-0.296,negative
+24,The_Thing_0,crazy,-0.34,negative
+46,The_Thing_0,escape,0.1779,positive
+49,The_Thing_0,natural prison,-0.2023,negative
+82,The_Thing_0,vital link,0.296,positive
+87,The_Thing_0,Rob Bottin,-0.5574,negative
+88,The_Thing_0,an excellent job,0.5719,positive
+91,The_Thing_0,a startlingly frightening,0.4019,positive
+92,The_Thing_0,realistic mess,-0.3612,negative
+94,The_Thing_0,fear,0.4588,positive
+99,The_Thing_0,superb,0.6249,positive
+103,The_Thing_0,a Razzie Award,0.5423,positive
+119,The_Thing_0,a much kinder,0.4939,positive
+129,The_Thing_0,the other hand,0.4939,positive
+134,The_Thing_0,amazing,0.5859,positive
+135,The_Thing_0,Assault,-0.5859,negative
+137,The_Thing_0,the magnificent,0.5994,positive
+139,The_Thing_0,the disappointing,-0.4939,negative
+140,The_Thing_0,Escape,0.1779,positive
+148,The_Thing_0,favorite,0.4588,positive
+149,The_Thing_0,horror,0.4588,positive
+151,The_Thing_0,a daring,0.3612,positive
+154,The_Thing_0,relief,0.4767,positive
+156,The_Thing_0,the same old horror,0.4588,positive
+162,The_Thing_1,entertaining horror,0.7096,positive
+163,The_Thing_1,clever,0.4588,positive
+164,The_Thing_1,personal favorite,0.4588,positive
+165,The_Thing_1,horror,0.4588,positive
+168,The_Thing_1,an isolated base,-0.3182,negative
+171,The_Thing_1,the original version,0.3182,positive
+189,The_Thing_1,a brilliant paranoia,0.4215,positive
+194,The_Thing_1,no one,-0.296,negative
+197,The_Thing_1,the strength,0.4939,positive
+198,The_Thing_1,security,0.34,positive
+200,The_Thing_1,spite,-0.5267,negative
+203,The_Thing_1,supreme,0.5574,positive
+206,The_Thing_1,Death,-0.5994,negative
+207,The_Thing_1,Escape From New York,0.1779,positive
+208,The_Thing_1,Escape From L.A.,0.1779,positive
+211,The_Thing_1,a truly,0.4404,positive
+212,The_Thing_1,masterpiece,0.6249,positive
+218,The_Thing_1,Horror,0.4588,positive
+221,The_Thing_1,nice,0.4215,positive
+237,The_Thing_1,WOW,0.5859,positive
+240,The_Thing_1,no parallel,-0.296,negative
+241,The_Thing_1,friend,0.4939,positive
+244,The_Thing_1,a treat,0.4019,positive
+252,The_Thing_1,Trust,0.5106,positive
+253,The_Thing_1,a tough thing,-0.128,negative
+257,The_Thing_1,horror,0.4588,positive
+258,The_Thing_1,a fine,0.2023,positive
+261,The_Thing_1,horror,0.4588,positive
+275,The_Thing_1,true terror,-0.1531,negative
+285,The_Thing_1,Granted,0.25,positive
+288,The_Thing_1,winning,0.5267,positive
+289,The_Thing_1,horror,0.4588,positive
+293,The_Thing_1,Escape,0.1779,positive
+296,The_Thing_1,outstanding performance,0.6124,positive
+312,The_Thing_1,havoc,-0.5994,negative
+313,The_Thing_1,favorite,0.4588,positive
+316,The_Thing_1,death,-0.5994,negative
+319,The_Thing_1,horror,0.4588,positive
+331,The_Thing_1,favorite,0.4588,positive
+336,The_Thing_1,Ass Seal Of Approval,-0.1027,negative
+338,The_Thing_2,the utmost respect,0.4767,positive
+341,The_Thing_2,the paranoiac,-0.3182,negative
+347,The_Thing_2,success,0.5719,positive
+348,The_Thing_2,the unbearable tension,-0.3182,negative
+351,The_Thing_2,a fearful hold,-0.4939,negative
+358,The_Thing_2,an horrific scene,0.6124,positive
+362,The_Thing_2,the perfect fusion,0.5719,positive
+363,The_Thing_2,horror,0.4588,positive
+372,The_Thing_2,a wonderful eerie,0.296,positive
+375,The_Thing_2,doom,-0.4019,negative
+376,The_Thing_2,paranoia,-0.25,negative
+379,The_Thing_2,a solid assembly,0.1531,positive
+388,The_Thing_2,glory,0.5423,positive
+392,The_Thing_3,terror,-0.5267,negative
+393,The_Thing_3,horror,0.4588,positive
+397,The_Thing_3,great creature,0.6249,positive
+404,The_Thing_3,The paranoia,-0.25,negative
+405,The_Thing_3,distrust,-0.4215,negative
+409,The_Thing_3,desperation,-0.4588,negative
+410,The_Thing_3,suspicion,-0.3818,negative
+423,The_Thing_3,unease,-0.4019,negative
+424,The_Thing_3,the excellent,0.5719,positive
+427,The_Thing_3,every feeling,0.128,positive
+428,The_Thing_3,terror,-0.5267,negative
+440,The_Thing_3,no doubt,-0.5719,negative
+445,The_Thing_3,a fantastic director,0.5574,positive
+446,The_Thing_3,greatest skill,0.6369,positive
+448,The_Thing_3,the tension,-0.3182,negative
+453,The_Thing_3,horror,0.4588,positive
+457,The_Thing_3,interest,0.4588,positive
+458,The_Thing_3,horror,0.4588,positive
+460,The_Thing_3,a keen interest,0.6705,positive
+471,The_Thing_4,a chance,0.25,positive
+479,The_Thing_4,super human monster,0.5994,positive
+490,The_Thing_4,eerie score,-0.3612,negative
+502,The_Thing_4,STRONG,0.5106,positive
+505,The_Thing_4,Rob Bottin,-0.5574,negative
+514,The_Thing_4,the tension,-0.3182,negative
+515,The_Thing_4,complaint,-0.296,negative
+516,The_Thing_4,no one,-0.296,negative
+519,The_Thing_4,commercial disaster,-0.6249,negative
+526,The_Thing_4,An amusing note,0.3818,positive
+539,The_Thing_5,the crap,-0.3818,negative
+544,The_Thing_5,horror,0.4588,positive
+546,The_Thing_5,obsession,-0.34,negative
+547,The_Thing_5,a GREAT,0.6249,positive
+552,The_Thing_5,an isolated base,-0.3182,negative
+555,The_Thing_5,the original version,0.3182,positive
+573,The_Thing_5,a brilliant paranoia,0.4215,positive
+578,The_Thing_5,no one,-0.296,negative
+581,The_Thing_5,the strength,0.4939,positive
+582,The_Thing_5,security,0.34,positive
+584,The_Thing_5,spite,-0.5267,negative
+587,The_Thing_5,supreme,0.5574,positive
+594,The_Thing_5,the animal lover,0.5859,positive
+604,The_Thing_5,paranoia,-0.25,negative
+605,The_Thing_5,the original version,0.3182,positive
+607,The_Thing_5,the real threat,-0.5267,negative
+609,The_Thing_5,hiding,-0.296,negative
+617,The_Thing_5,any lover,0.5859,positive
+618,The_Thing_5,the horror,0.4588,positive
+627,The_Thing_6,mad,-0.4939,negative
+638,The_Thing_6,the tense,-0.34,negative
+639,The_Thing_6,paranoid mood,-0.25,negative
+640,The_Thing_6,Helpless,-0.4588,negative
+643,The_Thing_6,a Razzie Award,0.5423,positive
+654,The_Thing_6,Well,0.2732,positive
+655,The_Thing_6,Rob Bottin,-0.5574,negative
+656,The_Thing_6,a great job,0.6249,positive
+657,The_Thing_6,witch,-0.3612,negative
+683,The_Thing_6,favorite,0.4588,positive
+698,The_Thing_7,extra terrestrial adventure,0.3182,positive
+699,The_Thing_7,a sweet alien,0.4588,positive
+721,The_Thing_7,great movie,0.6249,positive
+725,The_Thing_7,a remarkable afterlife,0.5574,positive
+734,The_Thing_7,faithful adaptation,0.4404,positive
+743,The_Thing_7,a brilliant sparring,0.5859,positive
+752,The_Thing_7,doomsday,-0.5859,negative
+756,The_Thing_7,moody,-0.3612,negative
+771,The_Thing_7,A satisfying example,0.4588,positive
+779,The_Thing_7,darkness,-0.25,negative
+789,The_Thing_7,The careful preparation,0.1531,positive
+793,The_Thing_7,Horror,0.4588,positive
+795,The_Thing_7,Rob Bottin,-0.5574,negative
+804,The_Thing_7,An argument,-0.3612,negative
+809,The_Thing_7,tension,-0.3182,negative
+811,The_Thing_7,an isolated outpost,-0.3182,negative
+818,The_Thing_7,masterpiece,0.6249,positive
+829,The_Thing_7,Horror Takes Shape,0.4588,positive
+841,The_Thing_7,a fine,0.2023,positive
+846,The_Thing_7,a horror,0.4588,positive
+850,The_Thing_7,perfection,0.5719,positive
+856,The_Thing_8,Great,0.6249,positive
+863,The_Thing_8,horror,0.4588,positive
+864,The_Thing_8,thriller,0.1027,positive
+866,The_Thing_8,a few comedy,0.3612,positive
+869,The_Thing_8,an adventure,0.3182,positive
+871,The_Thing_9,horror,0.4588,positive
+872,The_Thing_9,the inferior remakes,-0.4019,negative
+878,The_Thing_9,doubt,-0.3612,negative
+882,The_Thing_9,sci-fi horror,0.4588,positive
+892,The_Thing_9,God,0.2732,positive
+894,The_Thing_9,dread,-0.4588,negative
+895,The_Thing_9,isolation,-0.4019,negative
+907,The_Thing_9,dear life,0.3818,positive
+913,The_Thing_9,slimy bloody,-0.4404,negative
+914,The_Thing_9,progress,0.4215,positive
+924,The_Thing_9,the fine,0.2023,positive
+928,The_Thing_9,horror,0.4588,positive
+930,The_Thing_9,a great genre,0.6249,positive
+943,The_Thing_10,horror,0.4588,positive
+955,The_Thing_10,moody,-0.3612,negative
+959,The_Thing_10,wonderful btw,0.5719,positive
+960,The_Thing_10,a paranoia,-0.25,negative
+961,The_Thing_10,A truly,0.4404,positive
+962,The_Thing_10,wonderful film,0.5719,positive
+963,The_Thing_10,all horror,0.4588,positive
+965,The_Thing_10,good taste,0.4404,positive
+967,The_Thing_11,the success,0.5719,positive
+983,The_Thing_11,the original story,0.3182,positive
+984,The_Thing_11,menace,-0.4939,negative
+996,The_Thing_11,some Lovecraftian terror,-0.5267,negative
+1018,The_Thing_11,tension,-0.3182,negative
+1019,The_Thing_11,paranoia,-0.25,negative
+1022,The_Thing_11,a poor little doggie,-0.4767,negative
+1024,The_Thing_11,the excellent,0.5719,positive
+1039,The_Thing_11,a super,0.5994,positive
+1048,The_Thing_12,welcome change,0.4588,positive
+1051,The_Thing_12,no point,-0.296,negative
+1060,The_Thing_12,a good actor,0.4404,positive
+1065,The_Thing_12,creating,0.296,positive
+1067,The_Thing_12,Escape From New York,0.1779,positive
+1076,The_Thing_13,warm,0.2263,positive
+1080,The_Thing_13,an optimistic tale,0.3182,positive
+1086,The_Thing_13,a much cuter,0.5106,positive
+1087,The_Thing_13,prospect,0.296,positive
+1093,The_Thing_13,a substantial cult,0.2023,positive
+1097,The_Thing_13,a superior remake,0.5423,positive
+1117,The_Thing_13,the perfect,0.5719,positive
+1120,The_Thing_13,isolation,-0.4019,negative
+1126,The_Thing_13,the uncertainty,-0.34,negative
+1127,The_Thing_13,fear,0.4588,positive
+1131,The_Thing_13,the success,0.5719,positive
+1132,The_Thing_13,Escape From New York,0.1779,positive
+1142,The_Thing_13,The trouble,-0.4019,negative
+1157,The_Thing_13,Capable,0.3818,positive
+1161,The_Thing_13,paranoia,-0.25,negative
+1162,The_Thing_13,suspicion,-0.3818,negative
+1174,The_Thing_13,the top,0.2023,positive
+1180,The_Thing_13,the cool,0.3182,positive
+1189,The_Thing_13,Assault,-0.5859,negative
+1195,The_Thing_13,the tension,-0.3182,negative
+1197,The_Thing_13,an agonising,-0.3612,negative
+1202,The_Thing_13,visceral horror,0.4588,positive
+1207,The_Thing_13,Rob Bottin,-0.5574,negative
+1209,The_Thing_13,fame,0.4404,positive
+1211,The_Thing_13,a horror,0.4588,positive
+1219,The_Thing_13,fire,-0.34,negative
+1231,The_Thing_13,advantage,0.25,positive
+1241,The_Thing_13,A special mention,0.4019,positive
+1242,The_Thing_13,the excellent,0.5719,positive
+1248,The_Thing_13,an eerie,-0.3612,negative
+1250,The_Thing_13,feeling,0.128,positive
+1251,The_Thing_13,shake,-0.1779,negative
+1253,The_Thing_13,a wonderful exercise,0.5719,positive
+1254,The_Thing_13,paranoid manipulation,-0.4939,negative
+1262,The_Thing_13,the vague,-0.1027,negative
+1263,The_Thing_13,suspicion,-0.3818,negative
+1274,The_Thing_14,the paranoia,-0.25,negative
+1277,The_Thing_14,dreams,0.4019,positive
+1280,The_Thing_14,favorite,0.4588,positive
+1284,The_Thing_15,a brilliant remake,0.5859,positive
+1287,The_Thing_15,a brilliant film,0.5859,positive
+1288,The_Thing_15,horror,0.4588,positive
+1296,The_Thing_15,haunting score,-0.2732,negative
+1299,The_Thing_15,compelling story,0.2263,positive
+1301,The_Thing_15,wonderful direction,0.5719,positive
+1308,The_Thing_15,a brilliant film,0.5859,positive
+1323,The_Thing_16,the recession,-0.4215,negative
+1335,The_Thing_16,Well,0.2732,positive
+1344,The_Thing_16,God,0.2732,positive
+1352,The_Thing_16,Darkness,-0.25,negative
+1354,The_Thing_16,Madness,-0.4404,negative
+1355,The_Thing_16,supernatural horror,0.4588,positive
+1360,The_Thing_16,Yeah,0.296,positive
+1380,The_Thing_16,Big Trouble,-0.4019,negative
+1386,The_Thing_16,A lifelong fan,0.3182,positive
+1392,The_Thing_16,the original story,0.3182,positive
+1396,The_Thing_16,a vision,0.25,positive
+1426,The_Thing_16,Sure,0.3182,positive
+1430,The_Thing_16,the Rob Bottin-lef,-0.5574,negative
+1433,The_Thing_16,exhaustion,-0.3612,negative
+1436,The_Thing_16,exhaustion,-0.3612,negative
+1447,The_Thing_16,shame,-0.4767,negative
+1454,The_Thing_16,Well,0.2732,positive
+1455,The_Thing_16,the last battle,-0.3818,negative
+1466,The_Thing_16,a terrific,0.4767,positive
+1480,The_Thing_16,a fan,0.3182,positive
+1491,The_Thing_16,The Hateful Eight,-0.4939,negative
+1494,The_Thing_16,Best Original Score Oscar,0.7579,positive
+1497,The_Thing_17,An isolation,-0.4019,negative
+1499,The_Thing_17,the United,0.4215,positive
+1522,The_Thing_17,special effect,0.4019,positive
+1528,The_Thing_17,No room,-0.296,negative
+1529,The_Thing_17,sentimentality,0.296,positive
+1531,The_Thing_17,an incredible masterpiece,0.6249,positive
+1533,The_Thing_17,all horror,0.4588,positive
+1538,The_Thing_17,the tension,-0.3182,negative
+1540,The_Thing_17,any horror,0.4588,positive
+1541,The_Thing_18,Great,0.6249,positive
+1543,The_Thing_18,great ending,0.6249,positive
+1544,The_Thing_18,Superb,0.6249,positive
+1553,The_Thing_19,WOW,0.5859,positive
+1557,The_Thing_19,a masterpiece,0.6249,positive
+1558,The_Thing_19,a fan,0.3182,positive
+1562,The_Thing_19,a paranoia,-0.25,negative
+1579,The_Thing_19,capable,0.3818,positive
+1594,The_Thing_19,a truly,0.4404,positive
+1599,The_Thing_19,sinister,-0.5994,negative
+1613,The_Thing_19,truly,0.4404,positive
+1617,The_Thing_19,unimaginable horror,0.4588,positive
+1622,The_Thing_19,paranoia,-0.25,negative
+1623,The_Thing_19,emotional meltdown,0.1531,positive
+1632,The_Thing_19,a truly,0.4404,positive
+1633,The_Thing_19,horrifying,0.6124,positive
+1634,The_Thing_19,creation,0.2732,positive
+1641,The_Thing_19,any good horror/sci,0.4404,positive
+1664,The_Thing_19,a true masterpiece,0.7845,positive
+1666,The_Thing_19,horror,0.4588,positive
+1670,The_Thing_19,truly meant,0.4404,positive
+1671,The_Thing_19,Marvel,0.4215,positive
+1675,The_Thing_19,the excellent,0.5719,positive
+1678,The_Thing_19,gag reflex,-0.34,negative
+1683,The_Thing_19,great,0.6249,positive
+1694,The_Thing_20,the lonely figure,-0.3612,negative
+1699,The_Thing_20,a perfect,0.5719,positive
+1706,The_Thing_20,horror,0.4588,positive
+1710,The_Thing_20,another masterpiece,0.6249,positive
+1711,The_Thing_20,horror,0.4588,positive
+1712,The_Thing_20,an isolated setting,-0.3182,negative
+1713,The_Thing_20,no help,0.128,positive
+1715,The_Thing_20,an attack,-0.4767,negative
+1719,The_Thing_20,brutality,-0.6124,negative
+1727,The_Thing_20,a tense,-0.34,negative
+1728,The_Thing_20,hide,-0.1779,negative
+1731,The_Thing_20,the pressure,-0.296,negative
+1736,The_Thing_20,soul-chilling terror,-0.5267,negative
+1737,The_Thing_20,Rob Bottin,-0.5574,negative
+1741,The_Thing_20,a perfect note,0.5719,positive
+1743,The_Thing_20,a horror,0.4588,positive
+1751,The_Thing_20,the other hand,0.4939,positive
+1757,The_Thing_20,every fan,0.3182,positive
+1758,The_Thing_20,horror,0.4588,positive
+1764,The_Thing_20,frightening,0.4588,positive
+1765,The_Thing_21,Another well-loved horror,0.4588,positive
+1766,The_Thing_21,masterpiece,0.6249,positive
+1775,The_Thing_21,paranoia,-0.25,negative
+1777,The_Thing_21,isolation,-0.4019,negative
+1784,The_Thing_21,haunting,-0.2732,negative
+1788,The_Thing_21,eerie music,-0.3612,negative
+1790,The_Thing_21,highlight,0.34,positive
+1792,The_Thing_21,the awesome,0.6249,positive
+1794,The_Thing_21,Rob Bottin,-0.5574,negative
+1805,The_Thing_21,shock,-0.3818,negative
+1806,The_Thing_21,thrill,0.3612,positive
+1807,The_Thing_21,An impressive feat,0.5106,positive
+1808,The_Thing_21,Another highlight,0.34,positive
+1809,The_Thing_21,the great cast,0.6249,positive
+1815,The_Thing_21,moody,-0.3612,negative
+1830,The_Thing_22,the threat,-0.5267,negative
+1836,The_Thing_22,a strange,-0.2023,negative
+1849,The_Thing_22,A horror,0.4588,positive
+1852,The_Thing_22,horror legend,0.4588,positive
+1856,The_Thing_22,the tension,-0.3182,negative
+1857,The_Thing_22,good effect,0.4404,positive
+1860,The_Thing_22,Excellent,0.5719,positive
+1867,The_Thing_22,liking,0.4019,positive
+1868,The_Thing_22,neat,0.4588,positive
+1881,The_Thing_22,hero,0.5574,positive
+1884,The_Thing_23,share,0.296,positive
+1885,The_Thing_23,good taste,0.4404,positive
+1887,The_Thing_23,a favor,0.4019,positive
+1890,The_Thing_23,horror,0.4588,positive
+1893,The_Thing_23,masterpiece,0.6249,positive
+1906,The_Thing_23,horror,0.4588,positive
+1910,The_Thing_23,a horror film,0.4588,positive
+1916,The_Thing_23,stunning,0.3818,positive
+1929,The_Thing_23,good either,0.4404,positive
+1931,The_Thing_23,gaining,0.4215,positive
+1932,The_Thing_23,appreciation,0.5106,positive
+1933,The_Thing_23,a good reason,0.4404,positive
+1943,The_Thing_23,perfect,0.5719,positive
+1948,The_Thing_23,death,-0.5994,negative
+1954,The_Thing_23,the haunting,-0.2732,negative
+1960,The_Thing_23,isolation,-0.4019,negative
+1961,The_Thing_23,doom,-0.4019,negative
+1962,The_Thing_23,the gloomy score,-0.1531,negative
+1963,The_Thing_23,admit,0.2023,positive
+1964,The_Thing_23,perfect material,0.5719,positive
+1972,The_Thing_23,shame,-0.4767,negative
+1981,The_Thing_23,isolation,-0.4019,negative
+2001,The_Thing_23,the ability,0.3182,positive
+2003,The_Thing_23,the fear,0.4588,positive
+2009,The_Thing_23,help,0.4019,positive
+2016,The_Thing_23,original premise,0.3182,positive
+2030,The_Thing_23,an excellent job,0.5719,positive
+2031,The_Thing_23,a terrific,0.4767,positive
+2036,The_Thing_23,Rob Bottin,-0.5574,negative
+2050,The_Thing_23,a horror,0.4588,positive
+2054,The_Thing_23,scary scene,0.25,positive
+2057,The_Thing_23,Special mention,0.4019,positive
+2059,The_Thing_23,haunting,-0.2732,negative
+2063,The_Thing_23,effective underscore,0.4767,positive
+2065,The_Thing_23,the paranoia,-0.25,negative
+2087,The_Thing_24,vague screenplay,-0.1027,negative
+2089,The_Thing_24,brilliant puppetry,0.5859,positive
+2090,The_Thing_24,Rob Bartin,-0.5574,negative
+2094,The_Thing_24,the harsh,-0.4404,negative
+2114,The_Thing_24,trust,0.5106,positive
+2115,The_Thing_24,talent,0.4215,positive
+2117,The_Thing_24,the chance,0.25,positive
+2121,The_Thing_24,fire per,-0.34,negative
+2123,The_Thing_24,a fine,0.2023,positive
+2129,The_Thing_24,good role,0.4404,positive
+2131,The_Thing_24,excellent,0.5719,positive
+2135,The_Thing_24,the likes,0.4215,positive
+2151,The_Thing_24,curious music,0.3182,positive
+2155,The_Thing_24,merit,0.4215,positive
+2161,The_Thing_24,horror,0.4588,positive
+2179,A_Quiet_Place_0,blind,-0.4019,negative
+2189,A_Quiet_Place_0,fire,-0.34,negative
+2199,A_Quiet_Place_0,an interesting concept,0.4019,positive
+2201,A_Quiet_Place_1,smart,0.4019,positive
+2202,A_Quiet_Place_1,entertaining,0.4404,positive
+2203,A_Quiet_Place_1,novel,0.3182,positive
+2205,A_Quiet_Place_1,Beautiful cinematography,0.5994,positive
+2206,A_Quiet_Place_1,excellent,0.5719,positive
+2209,A_Quiet_Place_1,Nice,0.4215,positive
+2214,A_Quiet_Place_1,excellent,0.5719,positive
+2217,A_Quiet_Place_1,cinematic thriller,0.1027,positive
+2226,A_Quiet_Place_1,excellent tension,0.34,positive
+2230,A_Quiet_Place_1,that great photography,0.6249,positive
+2232,A_Quiet_Place_1,good acting,0.4404,positive
+2233,A_Quiet_Place_1,an amazing cinematic experience,0.5859,positive
+2238,A_Quiet_Place_1,a thrilling,0.4767,positive
+2240,A_Quiet_Place_1,the fun,0.5106,positive
+2243,A_Quiet_Place_2,good idea,0.4404,positive
+2251,A_Quiet_Place_2,a pretty,0.4939,positive
+2260,A_Quiet_Place_2,each other safe,0.4404,positive
+2266,A_Quiet_Place_2,great use,0.6249,positive
+2279,A_Quiet_Place_2,artificial conflict,-0.3182,negative
+2285,A_Quiet_Place_2,emotional arc,0.1531,positive
+2297,A_Quiet_Place_2,ability,0.3182,positive
+2300,A_Quiet_Place_2,thrill,0.3612,positive
+2323,A_Quiet_Place_2,any other natural place,0.3612,positive
+2329,A_Quiet_Place_2,wise,0.4767,positive
+2332,A_Quiet_Place_2,a tough sell,-0.128,negative
+2336,A_Quiet_Place_2,glaring problem,-0.4019,negative
+2337,A_Quiet_Place_3,Well,0.2732,positive
+2342,A_Quiet_Place_3,a great movie,0.6249,positive
+2344,A_Quiet_Place_3,Yeah,0.296,positive
+2348,A_Quiet_Place_3,Sure,0.3182,positive
+2350,A_Quiet_Place_3,an outstanding movie,0.6124,positive
+2352,A_Quiet_Place_3,Well,0.2732,positive
+2365,A_Quiet_Place_3,Yeah,0.296,positive
+2367,A_Quiet_Place_3,a miss,-0.1531,negative
+2391,A_Quiet_Place_3,no one,-0.296,negative
+2392,A_Quiet_Place_3,this kind,0.5267,positive
+2402,A_Quiet_Place_3,scream,-0.4019,negative
+2403,A_Quiet_Place_3,no one,-0.296,negative
+2410,A_Quiet_Place_3,Ugh,-0.4215,negative
+2414,A_Quiet_Place_3,good entertainment,0.6908,positive
+2419,A_Quiet_Place_3,Well,0.2732,positive
+2422,A_Quiet_Place_3,an overall imposing,-0.1027,negative
+2423,A_Quiet_Place_3,terrifying,-0.5719,negative
+2426,A_Quiet_Place_3,favor,0.4019,positive
+2440,A_Quiet_Place_4,an interesting concept,0.4019,positive
+2454,A_Quiet_Place_4,a screaming,-0.3818,negative
+2457,A_Quiet_Place_4,No way,-0.296,negative
+2458,A_Quiet_Place_4,no dialogue,-0.296,negative
+2463,A_Quiet_Place_4,No way,-0.296,negative
+2464,A_Quiet_Place_4,any hope,0.4404,positive
+2468,A_Quiet_Place_4,a diologue free movie,0.5106,positive
+2471,A_Quiet_Place_4,drop,-0.2732,negative
+2478,A_Quiet_Place_5,horror,0.4588,positive
+2482,A_Quiet_Place_5,fan,0.3182,positive
+2487,A_Quiet_Place_5,horror,0.4588,positive
+2493,A_Quiet_Place_5,a good idea,0.4404,positive
+2503,A_Quiet_Place_5,a noisy toy,-0.1779,negative
+2508,A_Quiet_Place_5,a dangerous world,-0.4767,negative
+2566,A_Quiet_Place_6,original premise,0.3182,positive
+2567,A_Quiet_Place_6,good production,0.4404,positive
+2571,A_Quiet_Place_6,the opportunity,0.4215,positive
+2574,A_Quiet_Place_7,No idea,-0.296,negative
+2579,A_Quiet_Place_7,original horror,0.6486,positive
+2602,A_Quiet_Place_7,tension,-0.3182,negative
+2608,A_Quiet_Place_7,the critical acclaim,-0.3182,negative
+2609,A_Quiet_Place_7,an absolute triumph,0.4767,positive
+2613,A_Quiet_Place_7,The Good,0.4404,positive
+2614,A_Quiet_Place_7,Well,0.2732,positive
+2616,A_Quiet_Place_7,The Bad,-0.5423,negative
+2619,A_Quiet_Place_7,a liability,-0.2023,negative
+2622,A_Quiet_Place_7,suck,-0.4404,negative
+2625,A_Quiet_Place_8,isolation,-0.4019,negative
+2632,A_Quiet_Place_8,danger,-0.5267,negative
+2639,A_Quiet_Place_8,original idea,0.3182,positive
+2640,A_Quiet_Place_8,Clever,0.4588,positive
+2654,A_Quiet_Place_10,good acting,0.4404,positive
+2655,A_Quiet_Place_10,a few good action,0.4404,positive
+2657,A_Quiet_Place_10,a lack,-0.3182,negative
+2658,A_Quiet_Place_10,any real comprehensive meaning,0.25,positive
+2660,A_Quiet_Place_11,a tense,-0.34,negative
+2661,A_Quiet_Place_11,original thriller,0.4019,positive
+2679,A_Quiet_Place_11,a trustworthy site,0.5574,positive
+2702,A_Quiet_Place_12,The tension,-0.3182,negative
+2707,A_Quiet_Place_12,horror,0.4588,positive
+2708,A_Quiet_Place_12,a ghost,-0.3182,negative
+2711,A_Quiet_Place_12,the feeling,0.128,positive
+2712,A_Quiet_Place_12,death,-0.5994,negative
+2715,A_Quiet_Place_12,the tension,-0.3182,negative
+2716,A_Quiet_Place_12,no pun,-0.296,negative
+2718,A_Quiet_Place_12,succeed,0.4939,positive
+2721,A_Quiet_Place_12,real horror,0.4588,positive
+2722,A_Quiet_Place_12,horror,0.4588,positive
+2729,A_Quiet_Place_12,an awesome,0.6249,positive
+2730,A_Quiet_Place_12,thrill,0.3612,positive
+2734,A_Quiet_Place_12,a thrill,0.3612,positive
+2750,A_Quiet_Place_12,certain stuff,0.2732,positive
+2758,A_Quiet_Place_12,no sense,-0.296,negative
+2770,A_Quiet_Place_12,a great time,0.6249,positive
+2774,A_Quiet_Place_12,nice,0.4215,positive
+2785,A_Quiet_Place_13,appreciation,0.5106,positive
+2794,A_Quiet_Place_13,positive critical reception,0.3182,positive
+2806,A_Quiet_Place_13,a blessing,0.4939,positive
+2807,A_Quiet_Place_13,a brilliant,0.5859,positive
+2815,A_Quiet_Place_13,lack,-0.3182,negative
+2820,A_Quiet_Place_13,a lazy,-0.3612,negative
+2821,A_Quiet_Place_13,unfair criticism,-0.7184,negative
+2840,A_Quiet_Place_13,a problem,-0.4019,negative
+2853,A_Quiet_Place_13,a problem,-0.4019,negative
+2872,A_Quiet_Place_13,confidence,0.5106,positive
+2873,A_Quiet_Place_13,great talent,0.7845,positive
+2888,A_Quiet_Place_13,unbearable tension,-0.3182,negative
+2893,A_Quiet_Place_13,a superb film,0.6249,positive
+2898,A_Quiet_Place_14,unsure,-0.25,negative
+2900,A_Quiet_Place_14,the blame,-0.34,negative
+2902,A_Quiet_Place_14,Ironic,-0.128,negative
+2923,A_Quiet_Place_14,this vicious world,-0.3612,negative
+2941,A_Quiet_Place_14,sensible risk,-0.2732,negative
+2944,A_Quiet_Place_14,a horror,0.4588,positive
+2945,A_Quiet_Place_14,thriller,0.1027,positive
+2948,A_Quiet_Place_14,eerie,-0.3612,negative
+2949,A_Quiet_Place_14,a lack,-0.3182,negative
+2952,A_Quiet_Place_14,Mars Attacks,-0.4404,negative
+2959,A_Quiet_Place_15,worst problem,-0.7783,negative
+2971,A_Quiet_Place_15,no food,-0.296,negative
+2972,A_Quiet_Place_15,no problem,-0.5994,negative
+2988,A_Quiet_Place_16,the lack,-0.3182,negative
+2989,A_Quiet_Place_16,care,0.4939,positive
+2994,A_Quiet_Place_16,a dangerous situation,-0.4767,negative
+3001,A_Quiet_Place_16,a gun,-0.34,negative
+3002,A_Quiet_Place_16,Okay,0.2263,positive
+3003,A_Quiet_Place_16,gun ownership,-0.34,negative
+3019,A_Quiet_Place_16,no one,-0.296,negative
+3025,A_Quiet_Place_16,interest,0.4588,positive
+3050,A_Quiet_Place_16,the playing,0.2023,positive
+3052,A_Quiet_Place_16,Love Call,0.6369,positive
+3054,A_Quiet_Place_16,Mars Attacks !,-0.4926,negative
+3065,A_Quiet_Place_16,terror,-0.5267,negative
+3070,A_Quiet_Place_16,a fine,0.2023,positive
+3081,A_Quiet_Place_17,violent,-0.5994,negative
+3086,A_Quiet_Place_17,intellect,0.4588,positive
+3089,A_Quiet_Place_17,gun,-0.34,negative
+3109,A_Quiet_Place_17,falling,-0.1531,negative
+3112,A_Quiet_Place_17,the damn,-0.4019,negative
+3115,A_Quiet_Place_17,drop,-0.2732,negative
+3117,A_Quiet_Place_17,a great movie,0.6249,positive
+3121,A_Quiet_Place_18,a huge disappointment,-0.25,negative
+3122,A_Quiet_Place_18,the Rotten Tomato User,-0.5106,negative
+3125,A_Quiet_Place_18,Rotten Tomato Score,-0.5106,negative
+3130,A_Quiet_Place_18,no backstory,-0.296,negative
+3132,A_Quiet_Place_18,no sense,-0.296,negative
+3148,A_Quiet_Place_18,jeopardy,-0.4767,negative
+3150,A_Quiet_Place_18,the impression,0.2263,positive
+3152,A_Quiet_Place_18,demand,-0.128,negative
+3163,A_Quiet_Place_18,problem,-0.4019,negative
+3174,A_Quiet_Place_18,Forget,-0.2263,negative
+3183,A_Quiet_Place_19,a boring,-0.3182,negative
+3190,A_Quiet_Place_19,no attention,-0.296,negative
+3210,A_Quiet_Place_19,no apparent,-0.296,negative
+3212,A_Quiet_Place_19,good,0.4404,positive
+3217,A_Quiet_Place_19,no ventilation,-0.296,negative
+3226,A_Quiet_Place_19,the ridiculous silo,-0.3612,negative
+3239,A_Quiet_Place_19,the fallen,-0.3612,negative
+3243,A_Quiet_Place_19,the solid steel,0.1531,positive
+3257,A_Quiet_Place_19,a broken water,-0.4767,negative
+3268,A_Quiet_Place_19,no explanation,-0.296,negative
+3269,A_Quiet_Place_19,the broken,-0.4767,negative
+3289,A_Quiet_Place_19,the axe,-0.1027,negative
+3313,A_Quiet_Place_19,the lazy,-0.3612,negative
+3323,A_Quiet_Place_19,harmonica,0.1531,positive
+3329,A_Quiet_Place_19,God,0.2732,positive
+3333,A_Quiet_Place_20,quite boring,-0.3804,negative
+3339,A_Quiet_Place_21,Spoiler Alert,0.296,positive
+3361,A_Quiet_Place_21,Bad,-0.5423,negative
+3366,A_Quiet_Place_21,allow,0.2263,positive
+3369,A_Quiet_Place_21,clear,0.3818,positive
+3373,A_Quiet_Place_21,the benefit,0.4588,positive
+3375,A_Quiet_Place_21,clear,0.3818,positive
+3392,A_Quiet_Place_21,clear,0.3818,positive
+3400,A_Quiet_Place_21,the top,0.2023,positive
+3406,A_Quiet_Place_21,scream,-0.4019,negative
+3407,A_Quiet_Place_21,clear,0.3818,positive
+3410,A_Quiet_Place_21,Ugh,-0.4215,negative
+3414,A_Quiet_Place_22,a straight line,0.2263,positive
+3417,A_Quiet_Place_23,a successful comedic,0.7579,positive
+3424,A_Quiet_Place_23,the high praise,0.5574,positive
+3425,A_Quiet_Place_23,the commercial success,0.5719,positive
+3427,A_Quiet_Place_23,a truly,0.4404,positive
+3428,A_Quiet_Place_23,brilliant,0.5859,positive
+3430,A_Quiet_Place_23,tension,-0.3182,negative
+3434,A_Quiet_Place_23,a dumb,-0.5106,negative
+3436,A_Quiet_Place_23,lack,-0.3182,negative
+3437,A_Quiet_Place_23,true terror,-0.1531,negative
+3449,A_Quiet_Place_23,some serious tense,-0.4019,negative
+3458,A_Quiet_Place_23,a good job,0.4404,positive
+3468,A_Quiet_Place_23,Better,0.4404,positive
+3478,A_Quiet_Place_23,this idiot,-0.5106,negative
+3480,A_Quiet_Place_23,weakness,-0.4215,negative
+3487,A_Quiet_Place_23,Wow,0.5859,positive
+3488,A_Quiet_Place_23,no one,-0.296,negative
+3492,A_Quiet_Place_23,enjoyment,0.5574,positive
+3496,A_Quiet_Place_23,actual horror,0.4588,positive
+3497,A_Quiet_Place_23,any real intelligence,0.4767,positive
+3501,A_Quiet_Place_23,good horror,0.7096,positive
+3507,A_Quiet_Place_23,a great idea,0.6249,positive
+3508,A_Quiet_Place_23,a good horror,0.7096,positive
+3511,A_Quiet_Place_24,critical smash,-0.3182,negative
+3513,A_Quiet_Place_24,horror,0.4588,positive
+3515,A_Quiet_Place_24,a horror movie,0.4588,positive
+3519,A_Quiet_Place_24,Scary,0.25,positive
+3529,A_Quiet_Place_24,good form,0.4404,positive
+3530,A_Quiet_Place_24,The superb,0.6249,positive
+3536,A_Quiet_Place_24,a superlative horror,0.4588,positive
+3545,A_Quiet_Place_24,a horror,0.4588,positive
+3555,A_Quiet_Place_24,a brave,0.5267,positive
+3556,A_Quiet_Place_24,horror,0.4588,positive
+3561,A_Quiet_Place_24,glory,0.5423,positive
+3562,A_Quiet_Place_24,rock-solid merit,0.4215,positive
+3565,A_Quiet_Place_24,a scary,0.25,positive
+3568,A_Quiet_Place_24,dread,-0.4588,negative
+3584,A_Quiet_Place_24,excel,0.4588,positive
+3586,A_Quiet_Place_24,courage,0.4939,positive
+3588,A_Quiet_Place_24,remarkable conviction,0.5574,positive
+3596,A_Quiet_Place_24,good horror,0.7096,positive
+3603,Alien_Covenant_0,perfect,0.5719,positive
+3617,Alien_Covenant_0,a sick,-0.5106,negative
+3639,Alien_Covenant_1,stupidity,-0.4404,negative
+3645,Alien_Covenant_1,a distress,-0.5267,negative
+3653,Alien_Covenant_1,safety,0.4215,positive
+3659,Alien_Covenant_1,relief,0.4767,positive
+3677,Alien_Covenant_1,a comedy,0.3612,positive
+3681,Alien_Covenant_2,loved,0.5994,positive
+3686,Alien_Covenant_2,conventional blockbuster,0.5994,positive
+3687,Alien_Covenant_2,accept,0.3818,positive
+3690,Alien_Covenant_2,impression,0.2263,positive
+3692,Alien_Covenant_2,straight forward,0.2263,positive
+3698,Alien_Covenant_2,dynamic,0.3818,positive
+3702,Alien_Covenant_2,perverse,-0.4215,negative
+3704,Alien_Covenant_2,a dumb movie,-0.5106,negative
+3717,Alien_Covenant_2,ironic religious subtext,-0.128,negative
+3718,Alien_Covenant_2,creation,0.2732,positive
+3720,Alien_Covenant_2,creation,0.2732,positive
+3728,Alien_Covenant_2,mean spirited continuation/escalation,0.3182,positive
+3736,Alien_Covenant_2,creation,0.2732,positive
+3740,Alien_Covenant_2,kind,0.5267,positive
+3741,Alien_Covenant_2,the mad,-0.4939,negative
+3743,Alien_Covenant_2,mad killer,-0.4939,negative
+3747,Alien_Covenant_2,the unworthy machine,-0.4588,negative
+3749,Alien_Covenant_2,creation,0.2732,positive
+3760,Alien_Covenant_2,a fascinating,0.5423,positive
+3768,Alien_Covenant_2,horror,0.4588,positive
+3797,Alien_Covenant_2,this perfect,0.5719,positive
+3808,Alien_Covenant_2,ultimate adversary,-0.2023,negative
+3819,Alien_Covenant_2,Lost,-0.3182,negative
+3830,Alien_Covenant_2,straight,0.2263,positive
+3835,Alien_Covenant_2,Lost,-0.3182,negative
+3836,Alien_Covenant_2,surprising aspect,0.2732,positive
+3842,Alien_Covenant_2,Heaven Paradise,0.8176,positive
+3850,Alien_Covenant_2,Paradise Lost,0.4404,positive
+3852,Alien_Covenant_2,admit,0.2023,positive
+3854,Alien_Covenant_2,conventional blockbuster,0.5994,positive
+3860,Alien_Covenant_2,a perverted version,-0.5423,negative
+3868,Alien_Covenant_2,a mad,-0.4939,negative
+3870,Alien_Covenant_2,a god,0.2732,positive
+3876,Alien_Covenant_2,madness,-0.4404,negative
+3879,Alien_Covenant_2,an angry god,-0.296,negative
+3881,Alien_Covenant_2,Heaven,0.5106,positive
+3891,Alien_Covenant_2,Favorite,0.4588,positive
+3893,Alien_Covenant_2,Favorite Low-Budget,0.4588,positive
+3895,Alien_Covenant_2,Favorite TV-Shows,0.4588,positive
+3902,Alien_Covenant_3,problem,-0.4019,negative
+3905,Alien_Covenant_3,weirdos,-0.2732,negative
+3917,Alien_Covenant_3,chance,0.25,positive
+3921,Alien_Covenant_3,risk,-0.2732,negative
+3929,Alien_Covenant_3,no breathing,-0.296,negative
+3934,Alien_Covenant_3,Good thinking,0.4404,positive
+3939,Alien_Covenant_3,no protective,-0.296,negative
+3943,Alien_Covenant_3,Yeah,0.296,positive
+3950,Alien_Covenant_3,solid,0.1531,positive
+3951,Alien_Covenant_3,Yep,0.296,positive
+3952,Alien_Covenant_3,a huge hike,0.3182,positive
+3960,Alien_Covenant_3,Sure,0.3182,positive
+3962,Alien_Covenant_3,a good sniff,0.4404,positive
+3963,Alien_Covenant_3,fine,0.2023,positive
+3969,Alien_Covenant_3,infected crewman,-0.4939,negative
+3977,Alien_Covenant_3,a comedy sound,0.3612,positive
+3987,Alien_Covenant_3,No need,-0.296,negative
+3989,Alien_Covenant_3,all fine,0.2023,positive
+3992,Alien_Covenant_3,Huge,0.3182,positive
+3996,Alien_Covenant_3,a good look,0.4404,positive
+4002,Alien_Covenant_3,a huge let-down,0.3182,positive
+4017,Alien_Covenant_3,a great job,0.6249,positive
+4018,Alien_Covenant_3,a lack,-0.3182,negative
+4020,Alien_Covenant_3,The other problem,-0.4019,negative
+4068,Alien_Covenant_3,disappointing,-0.4939,negative
+4087,Alien_Covenant_3,Please PLEASE Mr Scott,0.6523,positive
+4092,Alien_Covenant_3,a great effort,0.6249,positive
+4097,Alien_Covenant_4,poor,-0.4767,negative
+4104,Alien_Covenant_4,any kind,0.5267,positive
+4108,Alien_Covenant_4,bad writing,-0.5423,negative
+4115,Alien_Covenant_4,awful writing,-0.4588,negative
+4116,Alien_Covenant_5,God,0.2732,positive
+4119,Alien_Covenant_5,a worse movie,-0.4767,negative
+4121,Alien_Covenant_5,Rotten Tomatoes,-0.5106,negative
+4122,Alien_Covenant_5,a Fresh,0.3182,positive
+4125,Alien_Covenant_5,Any skepticism,-0.25,negative
+4130,Alien_Covenant_5,a masterful mess,-0.3612,negative
+4131,Alien_Covenant_5,The worse thing,-0.4767,negative
+4134,Alien_Covenant_5,comical nonsense,-0.4019,negative
+4138,Alien_Covenant_5,a free rock,0.5106,positive
+4142,Alien_Covenant_5,hand,0.4939,positive
+4144,Alien_Covenant_5,falling,-0.1531,negative
+4154,Alien_Covenant_5,Dumb,-0.5106,negative
+4158,Alien_Covenant_5,a fan,0.3182,positive
+4162,Alien_Covenant_5,the worse,-0.4767,negative
+4165,Alien_Covenant_5,A true crime,-0.1779,negative
+4167,Alien_Covenant_6,dumb,-0.5106,negative
+4195,Alien_Covenant_6,the only complaint,-0.296,negative
+4198,Alien_Covenant_6,no real plan,-0.296,negative
+4199,Alien_Covenant_6,no protective gear,-0.296,negative
+4205,Alien_Covenant_6,the intelligence,0.4767,positive
+4212,Alien_Covenant_6,alone,-0.25,negative
+4214,Alien_Covenant_6,no training,-0.296,negative
+4217,Alien_Covenant_6,The rampant stupidity,-0.4404,negative
+4219,Alien_Covenant_6,intelligence,0.4767,positive
+4221,Alien_Covenant_6,this stupid story,-0.5267,negative
+4226,Alien_Covenant_6,a smart,0.4019,positive
+4232,Alien_Covenant_6,the original film,0.3182,positive
+4234,Alien_Covenant_6,cute,0.4588,positive
+4238,Alien_Covenant_6,Well,0.2732,positive
+4239,Alien_Covenant_6,panicky idiot,-0.7003,negative
+4241,Alien_Covenant_7,a tense,-0.34,negative
+4242,Alien_Covenant_7,frightening masterpiece,0.7964,positive
+4245,Alien_Covenant_7,bolder,0.296,positive
+4252,Alien_Covenant_7,some fine,0.2023,positive
+4254,Alien_Covenant_7,the brilliance,0.5994,positive
+4255,Alien_Covenant_7,a good cast,0.4404,positive
+4258,Alien_Covenant_7,miss,-0.1531,negative
+4262,Alien_Covenant_7,the mistake,-0.34,negative
+4273,Alien_Covenant_7,beauty,0.5859,positive
+4276,Alien_Covenant_7,the disappointingly,-0.4404,negative
+4285,Alien_Covenant_7,fondly,0.4404,positive
+4287,Alien_Covenant_7,the original film,0.3182,positive
+4289,Alien_Covenant_7,credit,0.3818,positive
+4290,Alien_Covenant_7,good cast,0.4404,positive
+4297,Alien_Covenant_7,vulnerability,-0.2263,negative
+4304,Alien_Covenant_7,genuine tension,-0.3182,negative
+4317,Alien_Covenant_7,top,0.2023,positive
+4332,Alien_Covenant_7,the likes,0.4215,positive
+4339,Alien_Covenant_7,dull,-0.4019,negative
+4346,Alien_Covenant_7,no doubting,-0.5574,negative
+4350,Alien_Covenant_7,a disappointment,-0.5106,negative
+4352,Alien_Covenant_8,OK,0.296,positive
+4363,Alien_Covenant_8,forget,-0.2263,negative
+4371,Alien_Covenant_8,fine,0.2023,positive
+4372,Alien_Covenant_8,No need,-0.296,negative
+4380,Alien_Covenant_8,Jokes,0.25,positive
+4391,Alien_Covenant_8,Ignorant,-0.2732,negative
+4418,Alien_Covenant_9,credit,0.3818,positive
+4421,Alien_Covenant_9,credit,0.3818,positive
+4433,Alien_Covenant_9,this kind,0.5267,positive
+4434,Alien_Covenant_9,crap,-0.3818,negative
+4438,Alien_Covenant_9,crap,-0.3818,negative
+4444,Alien_Covenant_9,Ill,-0.4215,negative
+4452,Alien_Covenant_9,no need,-0.296,negative
+4453,Alien_Covenant_9,crap,-0.3818,negative
+4466,Alien_Covenant_9,crap,-0.3818,negative
+4475,Alien_Covenant_9,Please,0.3182,positive
+4478,Alien_Covenant_10,interesting character,0.4019,positive
+4480,Alien_Covenant_10,this feeling,0.128,positive
+4481,Alien_Covenant_10,a solid sci-fi film,0.1531,positive
+4483,Alien_Covenant_10,creation,0.2732,positive
+4484,Alien_Covenant_10,destruction,-0.5719,negative
+4494,Alien_Covenant_10,Yeah,0.296,positive
+4505,Alien_Covenant_10,no satisfaction,0.1779,positive
+4510,Alien_Covenant_10,no idea,-0.296,negative
+4511,Alien_Covenant_10,justice,0.5267,positive
+4515,Alien_Covenant_10,please,0.3182,positive
+4516,Alien_Covenant_11,an honest,0.5106,positive
+4522,Alien_Covenant_11,the real problem,-0.4019,negative
+4528,Alien_Covenant_12,fan,0.3182,positive
+4531,Alien_Covenant_12,easy absorbed,0.4404,positive
+4538,Alien_Covenant_12,sick,-0.5106,negative
+4545,Alien_Covenant_12,strange,-0.2023,negative
+4546,Alien_Covenant_12,this strange,-0.2023,negative
+4572,Alien_Covenant_13,a disaster,-0.6249,negative
+4574,Alien_Covenant_13,a mess,-0.3612,negative
+4577,Alien_Covenant_13,the mess,-0.3612,negative
+4579,Alien_Covenant_13,aggressive n violent,-0.6705,negative
+4581,Alien_Covenant_13,Another worst thing,-0.6249,negative
+4590,Alien_Covenant_13,anger,-0.5719,negative
+4595,Alien_Covenant_13,death,-0.5994,negative
+4597,Alien_Covenant_13,quick cut,-0.2732,negative
+4598,Alien_Covenant_13,annoying,-0.4019,negative
+4611,Alien_Covenant_13,played,0.34,positive
+4613,Alien_Covenant_13,aggressive life,-0.1531,negative
+4638,Alien_Covenant_14,the original movie,0.3182,positive
+4646,Alien_Covenant_14,original form,0.3182,positive
+4658,Alien_Covenant_14,Hate,-0.5719,negative
+4660,Alien_Covenant_14,fine,0.2023,positive
+4677,Alien_Covenant_15,the horror,0.4588,positive
+4680,Alien_Covenant_15,a major disappointment,-0.5106,negative
+4687,Alien_Covenant_15,trouble,-0.4019,negative
+4692,Alien_Covenant_15,hand,0.4939,positive
+4694,Alien_Covenant_15,a terrific movie,0.4767,positive
+4712,Alien_Covenant_15,downright boring,-0.3182,negative
+4714,Alien_Covenant_15,a tragedy,-0.6597,negative
+4715,Alien_Covenant_15,Another problem,-0.4019,negative
+4721,Alien_Covenant_15,cut,-0.2732,negative
+4723,Alien_Covenant_15,a fine performance,0.2023,positive
+4739,Alien_Covenant_15,a bloody,-0.4404,negative
+4743,Alien_Covenant_16,a huge budget,0.3182,positive
+4746,Alien_Covenant_16,a talentless,-0.3818,negative
+4747,Alien_Covenant_16,autistic nerd,-0.296,negative
+4748,Alien_Covenant_16,a fan fiction,0.3182,positive
+4761,Alien_Covenant_16,no rhythm,-0.296,negative
+4762,Alien_Covenant_16,no buildup,-0.296,negative
+4764,Alien_Covenant_16,a strong impression,0.6369,positive
+4771,Alien_Covenant_16,comedic,0.4019,positive
+4772,Alien_Covenant_16,value,0.34,positive
+4786,Alien_Covenant_16,no one,-0.296,negative
+4796,Alien_Covenant_16,better,0.4404,positive
+4801,Alien_Covenant_16,laugh time,0.5574,positive
+4802,Alien_Covenant_16,Another funny thing,0.4404,positive
+4817,Alien_Covenant_17,no one,-0.296,negative
+4819,Alien_Covenant_17,the ability,0.3182,positive
+4828,Alien_Covenant_17,crap,-0.3818,negative
+4829,Alien_Covenant_17,the same mistake,-0.34,negative
+4846,Alien_Covenant_17,fresh,0.3182,positive
+4851,Alien_Covenant_17,some damage,-0.4939,negative
+4859,Alien_Covenant_17,Okay,0.2263,positive
+4860,Alien_Covenant_17,DEFINITELY,0.4019,positive
+4865,Alien_Covenant_17,loose,-0.3182,negative
+4866,Alien_Covenant_17,endless succession,0.2023,positive
+4871,Alien_Covenant_17,masterpiece,0.6249,positive
+4878,Alien_Covenant_17,Mad Dave,-0.4939,negative
+4880,Alien_Covenant_17,Yes,0.4019,positive
+4903,Alien_Covenant_17,this theatrical cut,-0.2732,negative
+4914,Alien_Covenant_17,the comfort,0.3612,positive
+4921,Alien_Covenant_17,A huge part,0.3182,positive
+4923,Alien_Covenant_17,the darkness,-0.25,negative
+4928,Alien_Covenant_17,a bad idea,-0.5423,negative
+4938,Alien_Covenant_17,no way,-0.296,negative
+4947,Alien_Covenant_17,The original quadrilogy,0.3182,positive
+4951,Alien_Covenant_17,creative control,0.4404,positive
+4959,Alien_Covenant_18,the amazing,0.5859,positive
+4962,Alien_Covenant_18,the hard done,-0.1027,negative
+4984,Alien_Covenant_18,death,-0.5994,negative
+4989,Alien_Covenant_18,NO SH,-0.296,negative
+4994,Alien_Covenant_18,a GREAT,0.6249,positive
+4999,Alien_Covenant_18,a mess,-0.3612,negative
+5000,Alien_Covenant_18,accident,-0.4767,negative
+5015,Alien_Covenant_18,an OK,0.4466,positive
+5021,Alien_Covenant_18,A TWIN ANDROID FIST FIGHT AKIN TO X-MEN,-0.3818,negative
+5024,Alien_Covenant_19,any enjoyment,0.5574,positive
+5029,Alien_Covenant_19,good time,0.4404,positive
+5034,Alien_Covenant_19,fun,0.5106,positive
+5051,Alien_Covenant_19,a weak link,-0.4404,negative
+5062,Alien_Covenant_19,those kind,0.5267,positive
+5068,Alien_Covenant_19,a fan,0.3182,positive
+5077,Alien_Covenant_20,a beautiful movie,0.5994,positive
+5087,Alien_Covenant_20,kind,0.5267,positive
+5089,Alien_Covenant_20,horror,0.4588,positive
+5091,Alien_Covenant_20,problem,-0.4019,negative
+5095,Alien_Covenant_20,A second problem,-0.4019,negative
+5096,Alien_Covenant_20,interesting premise,0.4019,positive
+5097,Alien_Covenant_20,No new story,-0.296,negative
+5098,Alien_Covenant_20,No character,-0.296,negative
+5101,Alien_Covenant_20,a huge problem,-0.1027,negative
+5102,Alien_Covenant_20,this special historical connection,0.4019,positive
+5111,Alien_Covenant_20,annoying problem,-0.6597,negative
+5120,Alien_Covenant_20,the screaming,-0.3818,negative
+5123,Alien_Covenant_20,god,0.2732,positive
+5125,Alien_Covenant_20,trouble,-0.4019,negative
+5126,Alien_Covenant_20,this huge space,0.3182,positive
+5129,Alien_Covenant_20,WTF,-0.5859,negative
+5133,Alien_Covenant_20,an emotional mess,-0.2263,negative
+5137,Alien_Covenant_20,this kind,0.5267,positive
+5141,Alien_Covenant_20,A fourth problem,-0.4019,negative
+5142,Alien_Covenant_20,annoying problem,-0.6597,negative
+5143,Alien_Covenant_20,no understanding,-0.296,negative
+5148,Alien_Covenant_20,trauma,-0.4215,negative
+5155,Alien_Covenant_20,A fifth problem,-0.4019,negative
+5161,Alien_Covenant_20,A sixth problem,-0.4019,negative
+5174,Alien_Covenant_20,Confusing,-0.2263,negative
+5187,Alien_Covenant_21,creativity,0.3818,positive
+5194,Alien_Covenant_21,marvel,0.4215,positive
+5207,Alien_Covenant_22,Well,0.2732,positive
+5224,Alien_Covenant_22,a fight,-0.3818,negative
+5229,Alien_Covenant_22,stuck,-0.25,negative
+5235,Alien_Covenant_22,a laugh track,0.5574,positive
+5241,Alien_Covenant_23,stupid thing,-0.5267,negative
+5247,Alien_Covenant_23,no protective gear,-0.296,negative
+5250,Alien_Covenant_23,no telling,-0.296,negative
+5251,Alien_Covenant_23,kind,0.5267,positive
+5257,Alien_Covenant_23,The stupid girl,-0.5267,negative
+5272,Alien_Covenant_23,a terrible movie,-0.4767,negative
+5276,Alien_Covenant_24,an insult,-0.5106,negative
+5285,Alien_Covenant_24,a profit,0.4404,positive
+5286,Alien_Covenant_24,Hope,0.4404,positive
+5289,Alien_Covenant_24,bad cause,-0.5423,negative
+5293,Alien_Covenant_24,crash,-0.4019,negative
+5298,Alien_Covenant_24,crash,-0.4019,negative
+5308,Alien_Covenant_24,dull,-0.4019,negative
+5311,Alien_Covenant_24,a waste,-0.4215,negative
+5312,Alien_Covenant_24,talent,0.4215,positive
+5323,The_Shining_0,a masterpiece,0.6249,positive
+5326,The_Shining_0,fantastic book,0.5574,positive
+5329,The_Shining_0,a masterpiece,0.6249,positive
+5332,The_Shining_0,mental collapse,-0.4939,negative
+5335,The_Shining_0,Gorgeous camera,0.6124,positive
+5341,The_Shining_0,no wonder,-0.296,negative
+5344,The_Shining_0,a terrific,0.4767,positive
+5348,The_Shining_1,weird,-0.1779,negative
+5353,The_Shining_1,horror,0.4588,positive
+5355,The_Shining_1,a terrific film,0.4767,positive
+5357,The_Shining_1,classic vision,0.25,positive
+5359,The_Shining_1,horror tale,0.4588,positive
+5360,The_Shining_1,madness,-0.4404,negative
+5368,The_Shining_1,a Dull Boy,-0.4019,negative
+5375,The_Shining_1,argument,-0.3612,negative
+5386,The_Shining_1,isolation,-0.4019,negative
+5387,The_Shining_1,madness,-0.4404,negative
+5388,The_Shining_1,the ultimate ghost story,-0.3182,negative
+5401,The_Shining_1,Dick Hallorann,-0.5106,negative
+5407,The_Shining_1,the gift,0.4404,positive
+5414,The_Shining_1,Dick,-0.5106,negative
+5422,The_Shining_1,the better,0.4404,positive
+5440,The_Shining_1,imaginary friend,0.4939,positive
+5449,The_Shining_1,cry,-0.4767,negative
+5450,The_Shining_1,help,0.4019,positive
+5456,The_Shining_1,a dull boy,-0.4019,negative
+5457,The_Shining_1,Horrified,-0.5423,negative
+5477,The_Shining_1,an axe,-0.1027,negative
+5497,The_Shining_1,horror,0.4588,positive
+5498,The_Shining_1,that fear,0.4588,positive
+5501,The_Shining_1,mad,-0.4939,negative
+5504,The_Shining_1,a ghost woman,-0.3182,negative
+5506,The_Shining_1,horror,0.4588,positive
+5511,The_Shining_1,perfection,0.5719,positive
+5516,The_Shining_2,vision,0.25,positive
+5520,The_Shining_2,madness,-0.4404,negative
+5528,The_Shining_3,an opportunity,0.4215,positive
+5529,The_Shining_3,novel,0.3182,positive
+5530,The_Shining_3,an isolated environment,-0.3182,negative
+5532,The_Shining_3,mad,-0.4939,negative
+5541,The_Shining_3,the gift,0.4404,positive
+5546,The_Shining_3,particular danger,-0.5267,negative
+5547,The_Shining_3,the gift,0.4404,positive
+5561,The_Shining_3,no doubt,-0.5719,negative
+5566,The_Shining_3,novel,0.3182,positive
+5576,The_Shining_3,excellent,0.5719,positive
+5583,The_Shining_3,an excellent,0.5719,positive
+5584,The_Shining_3,horror,0.4588,positive
+5587,The_Shining_3,horror,0.4588,positive
+5588,The_Shining_3,gore alone,-0.25,negative
+5590,The_Shining_3,excellent,0.5719,positive
+5594,The_Shining_3,lost,-0.3182,negative
+5596,The_Shining_4,all good horror,0.7096,positive
+5597,The_Shining_4,a good idea,0.4404,positive
+5598,The_Shining_4,a horror,0.4588,positive
+5599,The_Shining_4,masterpiece,0.6249,positive
+5600,The_Shining_4,the hand,0.4939,positive
+5604,The_Shining_4,a great artist,0.6249,positive
+5605,The_Shining_4,the vision,0.25,positive
+5607,The_Shining_4,Okay,0.2263,positive
+5609,The_Shining_4,promise,0.3182,positive
+5610,The_Shining_4,gun,-0.34,negative
+5618,The_Shining_4,Horror,0.4588,positive
+5622,The_Shining_4,an assault,-0.5859,negative
+5631,The_Shining_4,the adventurous camera,0.34,positive
+5634,The_Shining_4,some kind,0.5267,positive
+5637,The_Shining_4,exploration,0.2263,positive
+5640,The_Shining_4,symmetric grandeur,0.5267,positive
+5646,The_Shining_4,harmonize,0.4019,positive
+5647,The_Shining_4,Certain,0.2732,positive
+5653,The_Shining_4,doom,-0.4019,negative
+5657,The_Shining_4,doom,-0.4019,negative
+5664,The_Shining_4,the axe,-0.1027,negative
+5669,The_Shining_4,the axe,-0.1027,negative
+5682,The_Shining_4,mad,-0.4939,negative
+5685,The_Shining_4,mad,-0.4939,negative
+5686,The_Shining_4,an exaggerated caricature,-0.1027,negative
+5688,The_Shining_4,the other hand,0.4939,positive
+5689,The_Shining_4,inspired casting,0.4939,positive
+5694,The_Shining_4,THIEVES LIKE US,-0.2023,negative
+5699,The_Shining_4,emotional distress,-0.4215,negative
+5703,The_Shining_4,the mad,-0.4939,negative
+5704,The_Shining_5,Okay,0.2263,positive
+5705,The_Shining_5,okay,0.2263,positive
+5720,The_Shining_5,the IMDb Top,0.2023,positive
+5724,The_Shining_5,a good movie,0.4404,positive
+5731,The_Shining_5,frustration,-0.4767,negative
+5735,The_Shining_5,all due respect,0.4767,positive
+5738,The_Shining_5,hand,0.4939,positive
+5741,The_Shining_5,thank,0.3612,positive
+5742,The_Shining_5,God,0.2732,positive
+5745,The_Shining_5,horror,0.4588,positive
+5762,The_Shining_5,flawless,0.5106,positive
+5771,The_Shining_5,this excellent story,0.5719,positive
+5780,The_Shining_5,significant effect,0.2023,positive
+5781,The_Shining_5,the isolation,-0.4019,negative
+5805,The_Shining_5,the evils,-0.5719,negative
+5816,The_Shining_5,the perfect,0.5719,positive
+5820,The_Shining_5,bloody past,-0.4404,negative
+5822,The_Shining_5,the emptiness,-0.4404,negative
+5841,The_Shining_5,the feeling,0.128,positive
+5852,The_Shining_5,the long empty,-0.2023,negative
+5861,The_Shining_5,a damn,-0.4019,negative
+5862,The_Shining_5,scary movie,0.25,positive
+5864,The_Shining_5,a horror,0.4588,positive
+5868,The_Shining_5,a feeling,0.128,positive
+5879,The_Shining_5,crazy,-0.34,negative
+5887,The_Shining_5,The Amityville Horror,0.4588,positive
+5899,The_Shining_5,cinematic tragedy,-0.6597,negative
+5900,The_Shining_6,a difficult review,-0.3612,negative
+5901,The_Shining_6,Ella Enchanted,0.3818,positive
+5905,The_Shining_6,fine,0.2023,positive
+5916,The_Shining_6,a tolerable horror,0.4588,positive
+5918,The_Shining_6,dread,-0.4588,negative
+5919,The_Shining_6,boring,-0.3182,negative
+5923,The_Shining_6,no suspense,-0.296,negative
+5928,The_Shining_6,scenery-chewing maniac,-0.4767,negative
+5929,The_Shining_6,the final madness,-0.4404,negative
+5932,The_Shining_6,a horror fan,0.6486,positive
+5934,The_Shining_6,opportunity,0.4215,positive
+5942,The_Shining_6,a novel,0.3182,positive
+5956,The_Shining_6,weak man,-0.4404,negative
+5967,The_Shining_6,gentle man,0.4404,positive
+5983,The_Shining_6,no contrast,-0.296,negative
+5984,The_Shining_6,worth commenting,0.2263,positive
+5996,The_Shining_6,yes,0.4019,positive
+6005,The_Shining_6,good eye,0.4404,positive
+6010,The_Shining_7,cut,-0.2732,negative
+6018,The_Shining_7,a fan,0.3182,positive
+6019,The_Shining_7,isolation,-0.4019,negative
+6021,The_Shining_7,praising,0.5423,positive
+6027,The_Shining_7,tension,-0.3182,negative
+6028,The_Shining_7,scare factor,-0.4939,negative
+6029,The_Shining_7,The vast isolation,-0.4019,negative
+6043,The_Shining_7,sinister,-0.5994,negative
+6046,The_Shining_7,gr8,0.5719,positive
+6065,The_Shining_7,madness,-0.4404,negative
+6067,The_Shining_7,Donner Party,0.4019,positive
+6072,The_Shining_7,an evilish smile,0.3612,positive
+6082,The_Shining_7,a big lol,0.4215,positive
+6087,The_Shining_8,horror,0.4588,positive
+6093,The_Shining_8,wonderful film,0.5719,positive
+6096,The_Shining_8,BEST,0.6369,positive
+6098,The_Shining_8,a fright,0.4588,positive
+6100,The_Shining_8,beauty,0.5859,positive
+6111,The_Shining_8,horror,0.4588,positive
+6127,The_Shining_8,an eerie,-0.3612,negative
+6130,The_Shining_8,manipulating,-0.3612,negative
+6156,The_Shining_8,like acting,0.3612,positive
+6157,The_Shining_8,glamour,0.5267,positive
+6170,The_Shining_8,idiot,-0.5106,negative
+6181,The_Shining_9,madness,-0.4404,negative
+6182,The_Shining_9,Certain,0.2732,positive
+6200,The_Shining_10,the horror,0.4588,positive
+6202,The_Shining_10,Well,0.2732,positive
+6217,The_Shining_10,cretinous nonsense,-0.4019,negative
+6219,The_Shining_10,a frustration,-0.4767,negative
+6225,The_Shining_10,a sneaky look,-0.2263,negative
+6227,The_Shining_10,Well,0.2732,positive
+6228,The_Shining_10,The poor man,-0.4767,negative
+6232,The_Shining_10,quiet frustration,-0.4767,negative
+6247,The_Shining_10,resentment,-0.4404,negative
+6249,The_Shining_10,frustration,-0.4767,negative
+6250,The_Shining_10,lack,-0.3182,negative
+6252,The_Shining_10,talent,0.4215,positive
+6253,The_Shining_10,annoyance,-0.3182,negative
+6254,The_Shining_10,a troubled son,-0.4588,negative
+6261,The_Shining_10,the idiot,-0.5106,negative
+6265,The_Shining_10,mindless,-0.4404,negative
+6267,The_Shining_10,retreat,0.2023,positive
+6272,The_Shining_10,no escape,-0.128,negative
+6284,The_Shining_10,the pain,-0.5106,negative
+6287,The_Shining_10,insanity,-0.5719,negative
+6290,The_Shining_10,an empty page,-0.2023,negative
+6305,The_Shining_10,an obvious lack,-0.3182,negative
+6306,The_Shining_10,affection,0.5267,positive
+6321,The_Shining_10,no fancy,-0.296,negative
+6363,The_Shining_10,willingness,0.2732,positive
+6372,The_Shining_10,frightening visual,0.4588,positive
+6376,The_Shining_10,a ghost,-0.3182,negative
+6378,The_Shining_10,a ghost,-0.3182,negative
+6383,The_Shining_10,that true horror,0.7003,positive
+6388,The_Shining_11,a masterpiece,0.6249,positive
+6395,The_Shining_11,horror,0.4588,positive
+6397,The_Shining_12,cinematic masterpiece,0.6249,positive
+6406,The_Shining_12,a good sense,0.4404,positive
+6416,The_Shining_12,many laughs,0.4939,positive
+6417,The_Shining_12,an axe,-0.1027,negative
+6418,The_Shining_12,horror,0.4588,positive
+6420,The_Shining_12,no explanation,-0.296,negative
+6425,The_Shining_12,no clue,-0.296,negative
+6429,The_Shining_12,convince,0.25,positive
+6434,The_Shining_13,terror,-0.5267,negative
+6446,The_Shining_13,frightening,0.4588,positive
+6447,The_Shining_13,the extraordinarily effective use,0.4767,positive
+6449,The_Shining_13,isolation,-0.4019,negative
+6455,The_Shining_13,tension,-0.3182,negative
+6458,The_Shining_13,a comedy,0.3612,positive
+6460,The_Shining_13,a horror,0.4588,positive
+6471,The_Shining_13,little comfort,0.2975,positive
+6474,The_Shining_13,the terror,-0.5267,negative
+6476,The_Shining_13,a truly,0.4404,positive
+6479,The_Shining_13,weakness,-0.4215,negative
+6484,The_Shining_13,a brilliant cinematic masterpiece,0.836,positive
+6485,The_Shining_13,the likes,0.4215,positive
+6487,The_Shining_14,a big fan,0.3182,positive
+6493,The_Shining_14,horror,0.4588,positive
+6499,The_Shining_14,a great story,0.6249,positive
+6511,The_Shining_14,crazy,-0.34,negative
+6514,The_Shining_14,OK,0.296,positive
+6516,The_Shining_14,block,-0.4404,negative
+6521,The_Shining_14,later violent,-0.5994,negative
+6526,The_Shining_14,the feeling,0.128,positive
+6527,The_Shining_14,isolation,-0.4019,negative
+6539,The_Shining_14,favorite,0.4588,positive
+6541,The_Shining_14,a ghost,-0.3182,negative
+6544,The_Shining_14,horror,0.4588,positive
+6547,The_Shining_14,crap,-0.3818,negative
+6549,The_Shining_14,The Blair Witch Project,-0.3612,negative
+6554,The_Shining_15,doubt,-0.3612,negative
+6556,The_Shining_15,a true classic,0.4215,positive
+6557,The_Shining_15,horror,0.4588,positive
+6565,The_Shining_15,original novel,0.5574,positive
+6578,The_Shining_15,severe warning,-0.6124,negative
+6583,The_Shining_15,same feeling,0.128,positive
+6603,The_Shining_15,strange,-0.2023,negative
+6610,The_Shining_15,block,-0.4404,negative
+6615,The_Shining_15,a sinister,-0.5994,negative
+6617,The_Shining_15,the worse,-0.4767,negative
+6620,The_Shining_15,the incredibly scary music,0.3167,positive
+6622,The_Shining_15,the excellent,0.5719,positive
+6626,The_Shining_15,The terrifying,-0.5719,negative
+6631,The_Shining_15,a horror,0.4588,positive
+6634,The_Shining_15,powerful performance,0.4215,positive
+6635,The_Shining_15,the mad,-0.4939,negative
+6639,The_Shining_15,the worrying,-0.34,negative
+6643,The_Shining_15,a kind,0.5267,positive
+6644,The_Shining_15,fear,0.4588,positive
+6645,The_Shining_15,weakness,-0.4215,negative
+6646,The_Shining_15,vulnerability,-0.2263,negative
+6647,The_Shining_15,convincing way,0.4019,positive
+6657,The_Shining_15,excellence,0.6249,positive
+6662,The_Shining_15,paranoia,-0.25,negative
+6663,The_Shining_15,terror,-0.5267,negative
+6665,The_Shining_15,brilliance,0.5994,positive
+6666,The_Shining_15,exquisite perfection,0.5719,positive
+6668,The_Shining_15,the horrifying,0.6124,positive
+6671,The_Shining_15,a perfect example,0.5719,positive
+6677,The_Shining_15,a special landmark,0.4588,positive
+6678,The_Shining_15,horror,0.4588,positive
+6690,The_Shining_15,a great deal,0.6249,positive
+6691,The_Shining_15,horror,0.4588,positive
+6693,The_Shining_15,truly,0.4404,positive
+6694,The_Shining_15,scary film,0.25,positive
+6705,The_Shining_16,no matter,-0.2732,negative
+6707,The_Shining_16,no exception,-0.296,negative
+6713,The_Shining_16,rich story,0.5574,positive
+6715,The_Shining_16,terror,-0.5267,negative
+6718,The_Shining_16,A masterpiece,0.6249,positive
+6719,The_Shining_16,hypnotic horror,0.4588,positive
+6727,The_Shining_16,the violent,-0.5994,negative
+6730,The_Shining_16,villainous turn,-0.4588,negative
+6732,The_Shining_16,beautiful lightness,0.5994,positive
+6735,The_Shining_16,a brilliant tightrope,0.5859,positive
+6737,The_Shining_16,haunting,-0.2732,negative
+6738,The_Shining_16,sadness,-0.4404,negative
+6740,The_Shining_16,compelling,0.2263,positive
+6744,The_Shining_16,beyond perfect,0.5719,positive
+6745,The_Shining_16,a directorial assuredness,0.34,positive
+6752,The_Shining_16,madness,-0.4404,negative
+6758,The_Shining_16,axe,-0.1027,negative
+6769,The_Shining_17,important thing,0.2023,positive
+6770,The_Shining_17,a horror,0.4588,positive
+6772,The_Shining_17,horrifying,0.6124,positive
+6780,The_Shining_17,a loving,0.5994,positive
+6784,The_Shining_17,total insanity,-0.5719,negative
+6785,The_Shining_17,no gradual shift,-0.296,negative
+6788,The_Shining_17,nervous wreck,-0.6124,negative
+6793,The_Shining_17,a weird little nut,-0.1779,negative
+6794,The_Shining_17,Another major problem,-0.4019,negative
+6795,The_Shining_17,no clear storyline,0.1027,positive
+6801,The_Shining_17,crazy,-0.34,negative
+6819,The_Shining_17,no scariness,-0.296,negative
+6829,The_Shining_18,madness,-0.4404,negative
+6832,The_Shining_18,no one,-0.296,negative
+6839,The_Shining_18,the crazy,-0.34,negative
+6840,The_Shining_18,nonsense,-0.4019,negative
+6848,The_Shining_18,the terror,-0.5267,negative
+6849,The_Shining_18,a modern thriller,0.1027,positive
+6850,The_Shining_18,a great script,0.6249,positive
+6851,The_Shining_19,Horror,0.4588,positive
+6860,The_Shining_19,a horror,0.4588,positive
+6867,The_Shining_19,a disturbing film,-0.5106,negative
+6868,The_Shining_19,much scary,0.25,positive
+6871,The_Shining_19,feeling,0.128,positive
+6880,The_Shining_19,a masterpiece,0.6249,positive
+6883,The_Shining_19,no error,-0.5994,negative
+6884,The_Shining_19,the creation,0.2732,positive
+6885,The_Shining_19,this masterpiece,0.6249,positive
+6887,The_Shining_19,Truly,0.4404,positive
+6888,The_Shining_19,horror,0.4588,positive
+6889,The_Shining_19,horror,0.4588,positive
+6893,The_Shining_20,cinematic fright,0.4588,positive
+6895,The_Shining_20,an intellectual thriller,0.5719,positive
+6896,The_Shining_20,the grand,0.4588,positive
+6897,The_Shining_20,vision,0.25,positive
+6900,The_Shining_20,a moody,-0.3612,negative
+6901,The_Shining_20,horror,0.4588,positive
+6907,The_Shining_20,the original shot,0.3182,positive
+6912,The_Shining_20,the typical horror,0.4588,positive
+6927,The_Shining_20,perfect,0.5719,positive
+6934,The_Shining_20,aggressor,-0.2023,negative
+6944,The_Shining_20,violent,-0.5994,negative
+6945,The_Shining_20,ass,-0.5423,negative
+6949,The_Shining_20,a perfect example,0.5719,positive
+6960,The_Shining_20,fine,0.2023,positive
+6969,The_Shining_20,proud,0.4767,positive
+6976,The_Shining_20,criticisms,-0.2263,negative
+6977,The_Shining_20,a superb film,0.6249,positive
+6980,The_Shining_20,grand,0.4588,positive
+6982,The_Shining_20,vision,0.25,positive
+6983,The_Shining_20,some terror,-0.5267,negative
+6990,The_Shining_20,the loss,-0.3182,negative
+6995,The_Shining_21,a horror movie,0.4588,positive
+6996,The_Shining_21,the novel,0.3182,positive
+7000,The_Shining_21,this masterpiece,0.6249,positive
+7017,The_Shining_21,the feeling,0.128,positive
+7028,The_Shining_21,beyond perfect,0.5719,positive
+7030,The_Shining_21,insanity,-0.5719,negative
+7043,The_Shining_21,a fantastic job,0.5574,positive
+7047,The_Shining_21,dream,0.25,positive
+7052,The_Shining_21,marvel,0.4215,positive
+7054,The_Shining_21,vibrant colour,0.5267,positive
+7056,The_Shining_21,perfect,0.5719,positive
+7065,The_Shining_21,a dream,0.25,positive
+7070,The_Shining_21,enough praise,0.5574,positive
+7086,The_Shining_22,an imaginary friend,0.4939,positive
+7087,The_Shining_22,helps,0.3818,positive
+7111,The_Shining_22,The ability,0.3182,positive
+7114,The_Shining_22,the isolation,-0.4019,negative
+7117,The_Shining_22,magnificent,0.5994,positive
+7143,The_Shining_22,a masterpiece,0.6249,positive
+7145,The_Shining_22,the horror,0.4588,positive
+7148,The_Shining_22,great movie,0.6249,positive
+7154,The_Shining_22,A true masterpiece,0.7845,positive
+7169,The_Shining_23,a huge fan,0.5574,positive
+7174,The_Shining_23,SCARY,0.25,positive
+7176,The_Shining_23,the terror,-0.5267,negative
+7192,The_Shining_23,a great director,0.6249,positive
+7212,The_Shining_23,hard snow,-0.1027,negative
+7219,The_Shining_23,an impressive piece,0.5106,positive
+7224,The_Shining_23,welcoming,0.4404,positive
+7245,The_Shining_23,imaginary friend,0.4939,positive
+7250,The_Shining_23,neat introductory,0.4588,positive
+7252,The_Shining_23,no need,-0.296,negative
+7265,The_Shining_23,disturbing exchange,-0.5106,negative
+7269,The_Shining_23,a chance,0.25,positive
+7270,The_Shining_23,the majestic fire,-0.34,negative
+7272,The_Shining_23,a good job,0.4404,positive
+7279,The_Shining_23,a magnificent,0.5994,positive
+7300,The_Shining_23,Dick Halloran,-0.5106,negative
+7315,The_Shining_23,The cut,-0.2732,negative
+7322,The_Shining_23,the warm,0.2263,positive
+7337,The_Shining_23,marvelous diversity,0.5994,positive
+7358,The_Shining_23,broken,-0.4767,negative
+7385,The_Shining_23,an attendant spirit,0.1779,positive
+7386,The_Shining_23,a spirit,0.1779,positive
+7426,The_Shining_23,a lack,-0.3182,negative
+7427,The_Shining_23,frightening,0.4588,positive
+7428,The_Shining_23,Abhorrent,-0.6249,negative
+7429,The_Shining_23,scary,0.25,positive
+7436,The_Shining_23,terror,-0.5267,negative
+7443,The_Shining_23,a certifiable insane person,-0.4019,negative
+7444,The_Shining_23,The degradation,-0.5267,negative
+7449,The_Shining_23,instant friendship,0.4404,positive
+7464,The_Shining_23,no charge,-0.296,negative
+7467,The_Shining_23,the Bartender Nice,0.4215,positive
+7468,The_Shining_23,play,0.34,positive
+7481,The_Shining_23,hand,0.4939,positive
+7485,The_Shining_23,a strong presence,0.5106,positive
+7499,The_Shining_23,Wow,0.5859,positive
+7504,The_Shining_23,a huge knife,0.3182,positive
+7506,The_Shining_23,that freaky little voice,-0.3612,negative
+7508,The_Shining_23,no meaning,-0.296,negative
+7515,The_Shining_23,final assault,-0.5859,negative
+7517,The_Shining_23,an axe,-0.1027,negative
+7524,The_Shining_23,brilliance,0.5994,positive
+7526,The_Shining_23,horror,0.4588,positive
+7527,The_Shining_23,horror,0.4588,positive
+7532,The_Shining_23,perfection,0.5719,positive
+7533,The_Shining_23,No smarm,-0.296,negative
+7534,The_Shining_23,no platitudinous whining,-0.4767,negative
+7535,The_Shining_23,idiotic ending,-0.5574,negative
+7538,The_Shining_23,perfection,0.5719,positive
+7548,The_Shining_23,the horror,0.4588,positive
+7550,The_Shining_23,good reason,0.4404,positive
+7572,The_Shining_24,the HUGE,0.4648,positive
+7591,The_Shining_24,all alone,-0.25,negative
+7598,The_Shining_24,no booze,-0.296,negative
+7602,The_Shining_24,weirdo,-0.4215,negative
+7608,The_Shining_24,scared,-0.4404,negative
+7619,The_Shining_24,exciting,0.4939,positive
+7623,The_Shining_24,GORGEOUS,0.6124,positive
+7644,The_Shining_24,the problem,-0.4019,negative
+7648,The_Shining_24,insanity,-0.5719,negative
+7651,The_Shining_24,novel,0.3182,positive
+7653,The_Shining_24,vision,0.25,positive
+7659,The_Shining_24,NO ONE,-0.296,negative
+7661,The_Shining_24,a losing battle,-0.6369,negative
+7676,The_Shining_24,tense,-0.34,negative
+7678,The_Shining_24,death,-0.5994,negative
+7679,The_Shining_24,a huge fan,0.5574,positive
+7680,The_Shining_24,respect,0.4767,positive
+7683,The_Shining_24,an awful lot,-0.4588,negative
+7686,The_Shining_24,an awful lot,-0.4588,negative
+7691,The_Shining_24,screw,-0.1027,negative
+7693,The_Shining_24,death,-0.5994,negative
